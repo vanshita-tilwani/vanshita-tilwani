@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 💼 Prior to beginning my studies at Northeastern, I spent fours years working as a Software Engineer at companies like ServiceNow and Planful. During this time, I contributed to various integral part of core development team and responsible for driving product features end to end right from the requirement phase to design phase and then all the way to development phase. I help design a bridge between the business needs and the technical implementation keeping in the mind the performance and scalability thresholds. I am really passionate about problem solving, data structures and designing application architecture.
 
 Get in touch with me to discuss opportunities.
+
 Drop a mail at msvtilwani@gmail.com
 
