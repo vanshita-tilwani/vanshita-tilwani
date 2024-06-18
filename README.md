@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👩‍🎓 I am currently pursuing a Master's degree in Computer Science at Northeastern University's Khoury College of Computer Sciences in Boston.
+👩‍🎓 I'm currently pursuing my Master's in Computer Science (specializing in Systems and Software) from Northeastern University. I am on the lookout for full-time opportunities in Software Engineering starting Jan 2025.
 
-👩‍💻 My interests lie in Fullstack Engineering, UI Development, Backend Development, and DevOps.
+🔭 As a Software Engineer Intern at Sequoia Capital, I'm actively applying my graduate studies in Computer Science, focusing on building data pipelines using Ruby, PostgreSQL, GraphQL, Rails to feed into Large language models to automate generation of various investment strategies. 
 
-💼 Prior to beginning my studies at Northeastern, I spent fours years working as a Software Engineer at companies like ServiceNow and Planful. During this time, I contributed to various integral part of core development team and responsible for driving product features end to end right from the requirement phase to design phase and then all the way to development phase. I help design a bridge between the business needs and the technical implementation keeping in the mind the performance and scalability thresholds. I am really passionate about problem solving, data structures and designing application architecture.
+👩‍💻 During my time as a Software Engineer Co-op at Fulfil, I led end-to-end development of various services such as Mars Status Updater Agent and Reservation System, harnessing C#, MongoDB, MySQL, REST APIs to enhance factory simulations and machine operations.
+
+💼 Prior to beginning my studies at Northeastern, I spent fours years working as a Software Engineer at ServiceNow and Planful. During this time, I was an integral part of the core development team, responsible for driving product features end-to-end—from the requirement phase through the design phase to development. I bridged business needs with technical implementation, always considering performance and scalability thresholds. I am passionate about problem-solving, data structures, and designing application architecture, always eager to tackle new challenges and continuously expand my skill set.
 
 Get in touch with me to discuss opportunities.
 
